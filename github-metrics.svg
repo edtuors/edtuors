@@ -1516,7 +1516,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcEBgECA//EACgQAAEDAwQBAwUBAAAAAAAAAAECAwQABREGITFREhNxgQcUQWGRof/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIRMUEDEiH/2gAMAwEAAhEDEQA/AFY1b13C6x44IQt1WE5G3dS7lpafGDcmO3IdjFwhXk2UIdGRxnvK8Vc9E2+1vxL3PlBblwiNJENodrJC147AH++1X7XU5StMMJtzLTbDkdoJSQcN7YKP7WZ2ma1XXAgZ1tLHOMjkChKmyDihd01FMRdpHpqyyF49NQzxsd+e6huXua4srQtDaTwkJqsVLZCVaGHozUqbddSqW6sRpLS2nlAZIB3B+FAH4qyav+qlvRblw4UtUp848j9sUDI/PON9s0omlHI3oFKWpQUondRyaZwTAuRoysl5xZWcrzkmtPEq3TxXOMohw+2KaegrJElWNTrvmVl0jbHQ/VF+ITJ//9k=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUCBgcD/8QAMBAAAQMCAwYFAgcAAAAAAAAAAQIDBAURABIhBhMxQXGBBxQiYZEVFjJCUVKSobH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAHhEAAgEEAwEAAAAAAAAAAAAAAAECAwQRIRIiMVH/2gAMAwEAAhEDEQA/AKZsls5V65McU2kQ6W25Z2oP3Q0jXgD+ZfsNcaNU3ku1CQiA86YSXCW0kFFteFuXLAO2NVrVSkUp1iK43HlAGEGWjuYzd7DJbTPp14YnBjustPqfyWSrI24CRvB0PP36dMLJRQD6a79a83TJypLu8YWGbDOsOCxBAvqQAdO2Mldl7yZL8lvUx0PKQgOiy7D93vi/wakWZTk+I29DEd0Ntl78Z0NyL358O2EnipGjK2xfks7llyWyzJfbSNEurbSV/J174H9Bwcng7QmPt2BJW2FuTY0qOGgDYEo9a/kkfwwQh5ynlbLkxyScxALitLcv8xKYyic9mkC5cYjyVWNrryrHxZIxW3nlqS4onXNb4xml4Wves9DsuuVepU+mxRfM6Lm3FRIF/wCh2TgDxIZMna6ZJjqzx3bFpX6pT6Ldikjth94WNpXXXZCxmdZaugnkSrKT1thVDrEyGhxthxISVqVqkcThVJY0WsqfJNn/2Q==" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -1529,7 +1529,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcEBgECA//EACgQAAEDAwQBAwUBAAAAAAAAAAECAwQABREGITFREhNxgQcUQWGRof/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIRMUEDEiH/2gAMAwEAAhEDEQA/AFY1b13C6x44IQt1WE5G3dS7lpafGDcmO3IdjFwhXk2UIdGRxnvK8Vc9E2+1vxL3PlBblwiNJENodrJC147AH++1X7XU5StMMJtzLTbDkdoJSQcN7YKP7WZ2ma1XXAgZ1tLHOMjkChKmyDihd01FMRdpHpqyyF49NQzxsd+e6huXua4srQtDaTwkJqsVLZCVaGHozUqbddSqW6sRpLS2nlAZIB3B+FAH4qyav+qlvRblw4UtUp848j9sUDI/PON9s0omlHI3oFKWpQUondRyaZwTAuRoysl5xZWcrzkmtPEq3TxXOMohw+2KaegrJElWNTrvmVl0jbHQ/VF+ITJ//9k=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUCBgcD/8QAMBAAAQMCAwYFAgcAAAAAAAAAAQIDBAURABIhBhMxQXGBBxQiYZEVFjJCUVKSobH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAHhEAAgEEAwEAAAAAAAAAAAAAAAECAwQRIRIiMVH/2gAMAwEAAhEDEQA/AKZsls5V65McU2kQ6W25Z2oP3Q0jXgD+ZfsNcaNU3ku1CQiA86YSXCW0kFFteFuXLAO2NVrVSkUp1iK43HlAGEGWjuYzd7DJbTPp14YnBjustPqfyWSrI24CRvB0PP36dMLJRQD6a79a83TJypLu8YWGbDOsOCxBAvqQAdO2Mldl7yZL8lvUx0PKQgOiy7D93vi/wakWZTk+I29DEd0Ntl78Z0NyL358O2EnipGjK2xfks7llyWyzJfbSNEurbSV/J174H9Bwcng7QmPt2BJW2FuTY0qOGgDYEo9a/kkfwwQh5ynlbLkxyScxALitLcv8xKYyic9mkC5cYjyVWNrryrHxZIxW3nlqS4onXNb4xml4Wves9DsuuVepU+mxRfM6Lm3FRIF/wCh2TgDxIZMna6ZJjqzx3bFpX6pT6Ldikjth94WNpXXXZCxmdZaugnkSrKT1thVDrEyGhxthxISVqVqkcThVJY0WsqfJNn/2Q==" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -1796,7 +1796,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2023, 15:15:08 (timezone America/Sao_Paulo) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 May 2023, 16:10:17 (timezone America/Sao_Paulo) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
