@@ -37,6 +37,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/edtuors/edtuors/output/snake.svg" alt="Snake animation" />
 
 ###
